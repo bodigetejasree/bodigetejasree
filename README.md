@@ -1,22 +1,33 @@
-# Hi 👋, I'm Bodige Tejasree
+# Hi 👋, I'm Bodige Teja Sree
 
-### B.Tech Student | Python Developer | AI/ML Enthusiast
+### B.Tech CSE Student | Python Developer | Web Development | AI/ML
 
-I am a B.Tech student passionate about software development, Python,
-Artificial Intelligence, and building practical technology solutions.
+I'm a Computer Science and Engineering undergraduate passionate about
+software development, Python, web technologies, and AI-powered applications.
 
-- 🔭 Currently learning and building with Python
-- 🌱 Exploring Python Web Development and AI/ML
-- 💻 Interested in Software Development and AI
-- 🚀 Building practical projects to strengthen my development skills
-- 📚 Continuously learning new technologies
-- 🤝 Open to collaborating on interesting projects
+I'm currently looking for Software Development Internship opportunities where
+I can apply my programming skills, gain practical industry experience, and
+contribute to real-world projects.
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech Computer Science & Engineering student
+- 🐍 Python developer
+- 🌐 Interested in Web Development
+- 🤖 Exploring AI and AI-powered applications
+- 🔧 Working with Django and Flask
+- 🗄️ Learning and working with MySQL
+- 💻 Using Git, GitHub and Visual Studio Code
+- 🚀 Building practical software projects
+- 🤝 Open to internship opportunities and collaborations
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -24,16 +35,26 @@ Artificial Intelligence, and building practical technology solutions.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frameworks & Tools
+### Frameworks
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI / APIs
+
+![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
+
+### Developer Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### AI / Machine Learning
-
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -41,11 +62,65 @@ Artificial Intelligence, and building practical technology solutions.
 
 ### 🤖 SupportMind AI
 
-An AI-powered support application built with Python and Streamlit.
+An AI-powered customer support agent built to maintain customer history
+and help resolve support issues faster.
 
-**Technologies:** Python | Streamlit | Google Gemini API
+### Key Features
+
+- 🧠 Persistent customer memory across sessions
+- 💬 Real-time chat
+- 🎫 Automatic ticket creation
+- 🔀 Intelligent model routing based on request complexity
+- 🤖 AI-powered customer support
+- 🔧 Built and deployed using Python and Flask
+
+### Technologies
+
+**Python · Flask · Groq · Hindsight · CascadeFlow**
 
 🔗 [View Repository](https://github.com/bodigetejasree/supportmind-ai)
+
+---
+
+## 🏆 Achievements
+
+### 🥇 Finalist — AISEHack 2026
+
+Team XD — recognized for innovation and expertise in Artificial Intelligence.
+
+### 🏅 Hack With Hyderabad
+
+Top **1,000 teams out of 3,000 participating teams**
+at Hack With Hyderabad (HackWithIndia).
+
+---
+
+## 📜 Certifications
+
+- 🚀 Bharatiya Antariksh Hackathon 2026 — ISRO
+- 💻 Advanced Software Engineering Job Simulation — Walmart Global Tech / Forage
+- 🤖 Digital Productivity with AI — UNICEF YuWaah / Passport to Earning
+- 🧠 Getting Started with Generative AI — IBM SkillsBuild
+- 🤖 Getting Started with Artificial Intelligence — IBM SkillsBuild
+
+---
+
+## 🎓 Education
+
+### B.Tech — Computer Science & Engineering
+
+**Malla Reddy College of Engineering, Hyderabad**  
+2024 — 2028
+
+### Intermediate — MPC
+
+**Narayana Junior College**  
+2022 — 2024
+
+### SSC
+
+**Shantiniketan High School**  
+2022
 
 ---
 
@@ -57,17 +132,21 @@ An AI-powered support application built with Python and Streamlit.
 
 ---
 
-## 🔥 GitHub Streak
+## 🌐 Portfolio
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=bodigetejasree&theme=tokyonight&hide_border=true)
+🔗 **[Visit My Portfolio](https://bodigetejasree.github.io/Portfolio/)**
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bodige-tejasree-466668321/)
+📧 **bodigetejasree@gmail.com**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bodigetejasree)
+💼 [LinkedIn](https://www.linkedin.com/in/bodigetejasree/)
+
+🐙 [GitHub](https://github.com/bodigetejasree)
+
+🌐 [Portfolio](https://bodigetejasree.github.io/Portfolio/)
 
 ---
 
